@@ -2,10 +2,9 @@
 template: BlogPost
 path: /fillerama
 date: 2020-02-20T14:59:36.571Z
-title: Dummy Content from Fillerama
+title: 'Kubernetes-101: Why are Containers so useful'
 thumbnail: /assets/k8-icon.png
 ---
-# Kubernetes-101: Why are Containers so useful
 #k8 #kubernetes #docker #containers
 
 ## Deployments
