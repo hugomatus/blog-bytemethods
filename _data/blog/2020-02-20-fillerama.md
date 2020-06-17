@@ -11,6 +11,11 @@ thumbnail: /assets/k8-icon.png
 ### Understanding the evolution of deployments
 
 ![](kubernetes-101/tree/master/k8-containers/FD50498D-7532-40C6-88B7-AEAEC029F394%205.png)
+
+<img src="https://github.com/hugomatus/kubernetes-101/tree/master/k8-containers/FD50498D-7532-40C6-88B7-AEAEC029F394%205.png"
+     alt=""
+     style="float: left; margin-right: 10px;" />
+
 [source](https://kubernetes.io)
 
 #### Traditional:
