@@ -1,6 +1,6 @@
 ---
 template: BlogPost
-path: /fillerama
+path: /k8-containers
 date: 2020-02-20T14:59:36.571Z
 title: 'Kubernetes-101: Why are Containers so useful'
 thumbnail: /assets/k8-icon.png
