@@ -10,24 +10,23 @@ thumbnail: /assets/k8-icon.png
 
 ### Understanding the evolution of deployments
 
-![](kubernetes-101/tree/master/k8-containers/FD50498D-7532-40C6-88B7-AEAEC029F394%205.png)
-
-<img src="https://github.com/hugomatus/kubernetes-101/tree/master/k8-containers/FD50498D-7532-40C6-88B7-AEAEC029F394%205.png"
-     alt=""
-     style="float: left; margin-right: 10px;" />
+![](/assets/FD50498D-7532-40C6-88B7-AEAEC029F394.png)
 
 [source](https://kubernetes.io)
 
 #### Traditional:
+
 * Applications ran on physical servers. 
 * No way to define resource boundaries for applications
 
 #### Virtualized:
+
 * Run multiple Virtual Machines (VMs) on a single physical server’s CPU. 
 * Application isolation between VMs
 * Security as a result of the isolation
 
-#### Container: 
+#### Container:
+
 * Share the Operating System (OS) among the applications. 
 * Lightweight. 
 * Own filesystem, CPU, memory, process space, etc. 
@@ -35,6 +34,7 @@ thumbnail: /assets/k8-icon.png
 * Portable.
 
 ## Benefits Provided by Containers:
+
 * Agile Delivery
 * Continuous development, integration, and deployment.
 * Observability
@@ -43,17 +43,12 @@ thumbnail: /assets/k8-icon.png
 * Loosely coupled - not monolithic
 * Ability to define resource boundaries - resource isolation, efficient utilization.
 
-
 ## Container Ecosystem Evolution
 
-![](k8-containers/A74FCFD0-2451-4C87-AD10-3239C7E28D59%205.png)
-[source](https://www.opcito.com/)
-
+![](/assets/A74FCFD0-2451-4C87-AD10-3239C7E28D59.png)
 
 ## Microservice Technology Timeline
 
-![](k8-containers/5C428D20-1824-45D3-8C6C-68EEB75F88A3%205.png)
-[source](https://www.researchgate.net/figure/A-microservice-technologies-timeline_fig1_324959590)
+![](/assets/5C428D20-1824-45D3-8C6C-68EEB75F88A3.png)
 
-
-
+![](k8-containers/5C428D20-1824-45D3-8C6C-68EEB75F88A3%205.png) [source](https://www.researchgate.net/figure/A-microservice-technologies-timeline_fig1_324959590)
